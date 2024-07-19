@@ -22,5 +22,4 @@ def division(num, base):
         print(final_number)
 
         
-       
 division(int(number.split()[0]), int(number.split()[1]))
